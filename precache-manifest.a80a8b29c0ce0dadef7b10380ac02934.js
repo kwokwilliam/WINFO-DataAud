@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/WINFO-DataAud/static/js/runtime~main.1e900e1a.js"
   },
   {
-    "revision": "bd81012b16a5b3d0874d",
-    "url": "/WINFO-DataAud/static/js/main.bd81012b.chunk.js"
+    "revision": "b78a016b27dcb08f6f43",
+    "url": "/WINFO-DataAud/static/js/main.b78a016b.chunk.js"
   },
   {
     "revision": "abe63f36a6c3e3adc6ef",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/WINFO-DataAud/static/css/1.36e5bfa5.chunk.css"
   },
   {
-    "revision": "4244a13b2effd3cffc799c2cf4c54c60",
+    "revision": "abb2d6a6b74e7727a8434f93b97f7cae",
     "url": "/WINFO-DataAud/index.html"
   }
 ];
