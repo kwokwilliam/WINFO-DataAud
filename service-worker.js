@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WINFO-DataAud/precache-manifest.ab0af85caee9a18226c6afd2085d995a.js"
+  "/WINFO-DataAud/precache-manifest.b26e6780c50fbec5aa675d1cb0733451.js"
 );
 
 workbox.clientsClaim();
